@@ -1,0 +1,6 @@
+metric,value
+rows_after_deduplication,4424.0
+feature_count_before_encoding,36.0
+missing_cells_after_deduplication,0.0
+test_accuracy,0.768361581920904
+test_balanced_accuracy,0.6754261112173291

@@ -1,0 +1,5 @@
+Algorithm,Clusters_excluding_noise,Noise_count,Noise_percent,Silhouette_excluding_noise,Davies_Bouldin_excluding_noise,Largest_cluster
+K-Means (k=4),4,0,0.0,0.07809138298034668,3.1949157106013653,1303
+"Hierarchical (Ward, k=4)",4,0,0.0,0.038639336824417114,4.899481143190499,1500
+DBSCAN (eps=1.5),1,852,34.08,,,1648
+Spectral (k=4),4,0,0.0,-0.10482419282197952,2.3881844882280414,2255
